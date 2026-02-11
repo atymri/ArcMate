@@ -11,6 +11,24 @@ It provides a simple interactive menu and uses the `SharpCompress` library for a
 - Extract archives in verbose mode with a progress bar
 - List archive contents with per-file size, compressed size, and compression ratio
 
+
+## Screenshots
+
+Add screenshots of the application interface in this section.
+
+### Main Menu
+
+![Main menu screenshot](screenshots/main-menu.png)
+
+### Verbose Extraction Progress
+
+![Verbose extraction screenshot](screenshots/extract-verbose.png)
+
+### Archive Content Listing
+
+![List contents screenshot](screenshots/list-contents.png)
+
+
 ## Tech Stack
 
 - C#
